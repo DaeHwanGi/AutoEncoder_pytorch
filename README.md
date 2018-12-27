@@ -21,10 +21,13 @@
 #### simple model
 ![outcome0](./image/outcome0.png)
 #### dimension reduction to 3d
-![outcom1](./image/outcome1.png)
+![outcome1](./image/outcome1.png)
 #### 3D scatter using matplotlib
 ![sd_scatter](./image/3d_scatter.png)
 #### compare three axis (-0.5 ~ 0.5)
 ![comp_axis_0](./image/comp_axis_0.png)
-
 ![comp_axis_1](./image/comp_axis_1.png)
+### Convolutional AutoEncoder result
+#### simple model
+![outcome2](./image/outcome2.png)
+#### noise reduction
