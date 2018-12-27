@@ -17,10 +17,6 @@
 
 [GeneralAutoEncoer2](./General_AutoEncoder_vis.ipynb)
 
-![model1.png](./image/GeneralAE.png)
-
-![model2.png](./image/GeneralAE_vis.png)
-
 ### MLP AutoEncoder result
 #### simple model
 ![outcome0](./image/outcome0.png)
