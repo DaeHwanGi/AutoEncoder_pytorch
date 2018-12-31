@@ -36,3 +36,5 @@
 simple model | noise reduction
 --- | ---
 ![filter1](./image/convFilter1.png) | ![filter2](./image/convFilter2.png)
+
+I can not find a dramatic difference because each model learned until convergence.
