@@ -31,3 +31,8 @@
 #### simple model
 ![outcome2](./image/outcome2.png)
 #### noise reduction
+![outcome3](./image/outcome3.png)
+#### Filter comparison
+simple model | noise reduction
+--- | ---
+![filter1](./image/convFilter1.png) | ![filter2](./image/convFilter2.png)
